@@ -14,7 +14,7 @@ This produce executable file __app__ which can be executed to run program.
 An image with full path can be inputted via terminal as shown below.  
 * For linux/mac   
 home/user/Pictures/sample.png  
-* For Windows
+* For Windows  
 D:/Pictures/sample.png
 
 
